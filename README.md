@@ -2,7 +2,7 @@
 
 
 [![Anurag's github stats](https://github-readme-stats-chi-wheat.vercel.app/api?username=AyeRlS&hide=stars&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center" src="https://github-readme-stats-chi-wheat.vercel.app/api?username=AyeRlS&hide=stars&count_private=true&theme=dracula" />
 [![Top Langs](https://github-readme-stats-chi-wheat.vercel.app/api/top-langs/?username=AyeRlS&hide=html,css,scss,less&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayeris)](https://github.com/anuraghazra/github-readme-stats)
