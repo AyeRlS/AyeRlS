@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AyeRlS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#293](https://github.com/France-ioi/AlgoreaFrontend/issues/293) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
