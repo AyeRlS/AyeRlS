@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 #### Some Stats:
-<p align="center>
+<p align="center">
     dsfdsqf
-
 </p>
 [![Anurag's github stats](https://github-readme-stats-chi-wheat.vercel.app/api?username=AyeRlS&hide=stars&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-chi-wheat.vercel.app/api/top-langs/?username=AyeRlS&hide=html,css,scss,less&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
