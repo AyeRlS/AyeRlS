@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 
-[![Anurag's github stats](https://github-readme-stats-chi-wheat.vercel.app/api?username=AyeRlS&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats-chi-wheat.vercel.app/api?username=AyeRlS&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 [![Top Langs](https://github-readme-stats-chi-wheat.vercel.app/api/top-langs/?username=AyeRlS&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayeris)](https://github.com/anuraghazra/github-readme-stats)-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayeris)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#293](https://github.com/France-ioi/AlgoreaFrontend/issues/293) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
