@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats-chi-wheat.vercel.app/api?username=AyeRlS)](https://github.com/anuraghazra/github-readme-stats)
+[api]: https://github-readme-stats-chi-wheat.vercel.app/api
+
+[![Anurag's github stats]([api]?username=AyeRlS)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-chi-wheat.vercel.app/api/top-langs/?username=AyeRlS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayeris)](https://github.com/anuraghazra/github-readme-stats)
 
