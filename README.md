@@ -17,10 +17,10 @@
 #### My Recent Activity:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#293](https://github.com/France-ioi/AlgoreaFrontend/issues/293) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
-2. 💪 Opened PR [#298](https://github.com/France-ioi/AlgoreaFrontend/pull/298) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
-3. 💪 Opened PR [#297](https://github.com/France-ioi/AlgoreaFrontend/pull/297) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
-4. 🎉 Merged PR [#288](https://github.com/France-ioi/AlgoreaFrontend/pull/288) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
-5. ❗️ Closed issue [#282](https://github.com/France-ioi/AlgoreaFrontend/issues/282) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
+2. 🗣 Commented on [#293](https://github.com/France-ioi/AlgoreaFrontend/issues/293) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
+3. 💪 Opened PR [#298](https://github.com/France-ioi/AlgoreaFrontend/pull/298) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
+4. 💪 Opened PR [#297](https://github.com/France-ioi/AlgoreaFrontend/pull/297) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
+5. 🎉 Merged PR [#288](https://github.com/France-ioi/AlgoreaFrontend/pull/288) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
 <!--END_SECTION:activity-->
 
 <!--
