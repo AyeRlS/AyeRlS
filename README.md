@@ -10,6 +10,9 @@
 [![Top Langs](https://github-readme-stats-chi-wheat.vercel.app/api/top-langs/?username=AyeRlS&hide=html,css,scss,less&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayeris)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 #### My Recent Activity:
 <!--START_SECTION:activity-->
