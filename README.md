@@ -14,7 +14,8 @@
 
 <!--END_SECTION:waka-->
 
-#### My Recent Activity:
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#36836](https://github.com/firstcontributions/first-contributions/pull/36836) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 2. 🎉 Merged PR [#302](https://github.com/France-ioi/AlgoreaFrontend/pull/302) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
