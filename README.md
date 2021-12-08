@@ -16,13 +16,9 @@
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#36836](https://github.com/firstcontributions/first-contributions/pull/36836) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-2. 🎉 Merged PR [#302](https://github.com/France-ioi/AlgoreaFrontend/pull/302) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
-3. ❗️ Closed issue [#84](https://github.com/France-ioi/AlgoreaFrontend/issues/84) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
-4. 🎉 Merged PR [#304](https://github.com/France-ioi/AlgoreaFrontend/pull/304) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
-5. ❗️ Closed issue [#280](https://github.com/France-ioi/AlgoreaFrontend/issues/280) in [France-ioi/AlgoreaFrontend](https://github.com/France-ioi/AlgoreaFrontend)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--
 **AyeRlS/AyeRlS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
