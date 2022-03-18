@@ -17,15 +17,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles)
-2. 🔱 Forked [AyeRlS/youtube-dl](https://github.com/AyeRlS/youtube-dl) from [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-3. ✔️ Closed issue [#12](https://github.com/Arthemide/UnmaskMe/issues/12) in [Arthemide/UnmaskMe](https://github.com/Arthemide/UnmaskMe)
-4. ✔️ Closed issue [#24](https://github.com/Arthemide/UnmaskMe/issues/24) in [Arthemide/UnmaskMe](https://github.com/Arthemide/UnmaskMe)
-5. ⭐ Starred [sveltejs/kit](https://github.com/sveltejs/kit)
+1. ⭐ Starred [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit)
+2. ⭐ Starred [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles)
+3. 🔱 Forked [AyeRlS/youtube-dl](https://github.com/AyeRlS/youtube-dl) from [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
+4. ✔️ Closed issue [#12](https://github.com/Arthemide/UnmaskMe/issues/12) in [Arthemide/UnmaskMe](https://github.com/Arthemide/UnmaskMe)
+5. ✔️ Closed issue [#24](https://github.com/Arthemide/UnmaskMe/issues/24) in [Arthemide/UnmaskMe](https://github.com/Arthemide/UnmaskMe)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 18th, 2022, 2:19:26 PM
+Last Updated: Friday, March 18th, 2022, 2:39:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
