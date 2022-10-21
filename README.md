@@ -15,7 +15,7 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui)
+1. ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 2. 🎉 Merged PR [#34](https://github.com/Arthemide/UnmaskMe/pull/34) in [Arthemide/UnmaskMe](https://github.com/Arthemide/UnmaskMe)
 3. 🎉 Merged PR [#28](https://github.com/Arthemide/UnmaskMe/pull/28) in [Arthemide/UnmaskMe](https://github.com/Arthemide/UnmaskMe)
 4. 👍 Approved [#28](https://github.com/Arthemide/UnmaskMe/pull/28#pullrequestreview-914842324) in [Arthemide/UnmaskMe](https://github.com/Arthemide/UnmaskMe)
@@ -23,7 +23,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 21st, 2022, 3:00:49 PM
+Last Updated: Friday, October 21st, 2022, 3:57:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
